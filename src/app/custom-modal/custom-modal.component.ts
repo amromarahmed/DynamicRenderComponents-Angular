@@ -1,6 +1,6 @@
 import { Component, OnInit } from "@angular/core";
-import { DynCompData } from "../DynamicRendering/dyn-comp-data";
-import { InsertedCompRef } from "../DynamicRendering/inserted-comp-ref";
+import { DynCompData } from "../DynamicRender/dyn-comp-data";
+import { InsertedCompRef } from "../DynamicRender/inserted-comp-ref";
 declare var $: any;
 
 @Component({

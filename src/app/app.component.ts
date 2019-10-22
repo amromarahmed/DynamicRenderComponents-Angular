@@ -1,5 +1,5 @@
 import { Component } from "@angular/core";
-import { DynRendService } from "./DynamicRendering/dyn-rend.service";
+import { DynRendService } from "./DynamicRender/dyn-rend.service";
 import { CustomModalComponent } from "./custom-modal/custom-modal.component";
 
 @Component({
